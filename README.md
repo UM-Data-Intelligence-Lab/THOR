@@ -1,4 +1,4 @@
-Official implementation for **THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs**. THOR is a fully inductive link prediction technique for hyper-relational knowledge graphs that leverages two parallel NBFNet-based encoders and a transformer decoder to process dual foundation graphs, which supports efficient masked training while obviating the reliance on costly negative sampling via random corruption. To set up the execution environment with Python 3.9+, please run the code below:
+Official implementation for **THOR: Inductive Link Prediction over Hyper-Relational Knowledge Graphs**, accepted by KDD'27 Cycle 1. THOR is a fully inductive link prediction technique for hyper-relational knowledge graphs that leverages two parallel NBFNet-based encoders and a transformer decoder to process dual foundation graphs, which supports efficient masked training while obviating the reliance on costly negative sampling via random corruption. To set up the execution environment with Python 3.9+, please run the code below:
 To set up the execution environment with python 3.9+, please run the code below:
 ```bash
 pip install numpy==1.26.0
